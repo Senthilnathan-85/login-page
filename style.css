@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(45deg, #4b6cb7, #182848);
+    background: linear-gradient(45deg, #009a03, #014314);
 }
 
 .login-container {
@@ -49,13 +49,13 @@ body {
 
 .form-group input:focus {
     outline: none;
-    border-color: #4b6cb7;
+    border-color: #009a03;
 }
 
 .btn-login {
     width: 100%;
     padding: 1rem;
-    background: #4b6cb7;
+    background: #009a03;
     color: white;
     border: none;
     border-radius: 5px;
@@ -65,7 +65,7 @@ body {
 }
 
 .btn-login:hover {
-    background: #3b5998;
+    background: #2fac01;
 }
 
 .forgot-password {
@@ -74,7 +74,7 @@ body {
 }
 
 .forgot-password a {
-    color: #4b6cb7;
+    color: #009a03;
     text-decoration: none;
 }
 
